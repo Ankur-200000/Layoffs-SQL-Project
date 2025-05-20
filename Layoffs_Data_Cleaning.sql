@@ -33,13 +33,15 @@ select *
 from layoffs_staging2
 where row_num > 1;
 
-SET SQL_SAFE_UPDATES = 0; #disables safe update
+SET SQL_SAFE_UPDATES = 0; 
+#disables safe update
 
 delete
 from layoffs_staging2
 where row_num > 1;
 
-SET SQL_SAFE_UPDATES = 1; #It's good practice to re-enable it afterward
+SET SQL_SAFE_UPDATES = 1; 
+#It's good practice to re-enable it afterward
 
 -- 2. Standardize Data
 
