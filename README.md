@@ -29,3 +29,6 @@ The script also includes exploratory data analysis to provide insights into the 
 * Examining the relationship between funds raised and layoffs.
 * Calculating monthly layoff trends.
 * Determining the top 5 companies with the most layoffs per year.
+
+## Preview
+![Preview of the project](SQL_Cleaning_EDA.gif)
