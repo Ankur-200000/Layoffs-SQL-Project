@@ -31,4 +31,4 @@ The script also includes exploratory data analysis to provide insights into the 
 * Determining the top 5 companies with the most layoffs per year.
 
 ## Preview
-![Project Demo](SQL_Cleaning_EDA.gif)
+![Project Demo](SQL.gif)
